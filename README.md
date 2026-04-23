@@ -58,14 +58,19 @@ npm run dev
 
 ### 🖥 Browser Window 1
 
- <img width="1568" height="279" alt="image" src="https://github.com/user-attachments/assets/3b46b17c-cc2d-4a18-97ff-c33bb071ec57" />
+ <img width="1919" height="887" alt="Screenshot 2026-04-23 071907" src="https://github.com/user-attachments/assets/cc6bb8fe-7574-4623-99b5-42db4c8c9624" />
+ 
+
 
 ---
 
 ### 🖥 Browser Window 2
 
 ---
-<img width="1754" height="566" alt="image" src="https://github.com/user-attachments/assets/f2bc162c-9094-46bc-a3f4-e4db2d40b7c6" />
+<img width="1919" height="905" alt="Screenshot 2026-04-23 071946" src="https://github.com/user-attachments/assets/46552a30-c887-4701-bbc7-b106cbd2cf8d" />
+
+<img width="1906" height="887" alt="Screenshot 2026-04-23 061404" src="https://github.com/user-attachments/assets/3c8a8652-38ba-4f3a-a1eb-e9e81f6572a7" />
+
 
 
 ---
